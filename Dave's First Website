@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>David's Cool Website</title>
+</head>
+<body>
+    <h1>A Few of My Favorite Foods</h1>
+    <ul>
+        <li>Ribs</li>
+        <li>Pizza</li>
+        <li>Spaghetti</li>
+    </ul>
+</body>
+</head>
+</html>
